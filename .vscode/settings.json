@@ -1,0 +1,8 @@
+{
+    "eslint.enable": false,
+    "jshint.enable": false,
+    "standard.enable": false,
+    "tslint.enable": false,
+    "angulardoc.repoId": "692374dc-ac94-4b5b-abac-5fcc1763444a",
+    "angulardoc.lastSync": 0
+}
